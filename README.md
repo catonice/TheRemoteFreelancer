@@ -109,7 +109,7 @@ Please please please contribute to the list! If you have freelance work availabl
 
 Thank you for looking :) Good hunting!
 
-## Differences betwteen types
+## Differences between types
 
 |                                  | Clients                                                                                          | Jobs                                                                                         | Agency                                                                                            |
 |----------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
